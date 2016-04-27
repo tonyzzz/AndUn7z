@@ -10,6 +10,6 @@ A simple android ndk library used to simply extract lzma 7z files. [forked from 
 
 atom的markdown 插件下载失败，预览不了。。。
 
-> atom插件安装完成了，测试下看看吧
+> atom插件安装完成了，^_^
 
-> 从此人来迎来光明。
+> 从此人生迎来光明。
