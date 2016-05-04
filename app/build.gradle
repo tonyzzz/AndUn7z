@@ -12,6 +12,7 @@ android {
         ndk {
             moduleName "un7z"
             abiFilters "armeabi"
+            ldLibs "log", "z", "m"
         }
     }
 
